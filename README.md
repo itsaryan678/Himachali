@@ -1,6 +1,6 @@
 # HIMACHALI
 
-*globalsprak* is a Node.js package that provides access to various AI models, image generation, content downloading from various platforms, and more.
+*Himachali* is a Node.js package that provides access to various AI models, image generation, content downloading from various platforms, and more.
 
 **Join our discord server**
 ## [💻 Discord Server 💻](https://discord.gg/BcswY2PE)
@@ -11,7 +11,7 @@
 You can install the package using npm:
 
 ```bash
-npm i Himachali
+npm i himachali
 ```
 
 *All Informations are not available join our discord server for more informations, thank you for using our services 🌷🥰*
