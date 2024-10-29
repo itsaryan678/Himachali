@@ -31,4 +31,3 @@ npm i Himachali
       }
 
       main();
-      ```
