@@ -1,0 +1,38 @@
+{
+  "name": "Himachali",
+  "version": "1.0.0",
+  "description": "A simple npm package for accessing the RestAPIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "start": "node index.js",
+    "build": "echo \"Building the project...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsaryan678/Himachali.git"
+  },
+  "keywords": [
+    "gpt"
+  ],
+  "author": "Aryan Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/itsaryan678/Himachali/issues"
+  },
+  "homepage": "https://c-v5.onrender.com",
+  "private": false,
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsaryan678/Himachali.git"
+  }
+}
