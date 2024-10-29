@@ -1,46 +1,34 @@
-## Himachali 
+# HIMACHALI
 
-A simple npm package for accessing the GPT API.
+*globalsprak* is a Node.js package that provides access to various AI models, image generation, content downloading from various platforms, and more.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Animated Beautiful Fonts](#animated-beautiful-fonts)
-- [Styling Tips](#styling-tips)
-- [Contributing](#contributing)
-- [License](#license)
-- [Bugs and Issues](#bugs-and-issues)
+**Join our discord server**
+## [💻 Discord Server 💻](https://discord.gg/BcswY2PE)
+*Made by Aryan Chauhan*
 
 ## Installation
 
-You can install this package via npm:
+You can install the package using npm:
 
 ```bash
-npm install Himachali
+npm i Himachali
+```
 
-Usage
-
-Here's how you can use the globalsprak package to interact with the GPT API:
-
-const { gpt } = require('Himachali');
-
-async function getGptResponse(prompt) {
-  const response = await gpt(prompt);
-  console.log(response);
-}
-
-getGptResponse("What is the capital of France?");
-
-API
-
-gpt(prompt)
-
-Description: Fetches a response from the GPT API based on the provided prompt.
-
-Parameters:
-
-prompt (string): The text prompt you want to send to the GPT API.
+*All Informations are not available join our discord server for more informations, thank you for using our services 🌷🥰*
 
 
-Returns: A promise that resolves to the API response data or null if an error occurs.
+## AI MODELS
+
+# GPT
+
+```javascript
+      const { gpt } = require('himachali');
+
+      async function main() {
+        const prompt = "Who are you?";
+        const response = await gpt(prompt);
+        console.log(response);
+      }
+
+      main();
+      ```
