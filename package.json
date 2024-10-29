@@ -1,5 +1,5 @@
 {
-  "name": "Himachali",
+  "name": "himachali",
   "version": "1.0.0",
   "description": "A simple npm package for accessing the RestAPIs.",
   "main": "index.js",
